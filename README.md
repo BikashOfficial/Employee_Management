@@ -1,4 +1,4 @@
-# Spring Boot End-to-End Flow - Complete Beginner's Guide
+# Spring Boot End-to-End Flow
 
 ## Table of Contents
 1. [Overview](#overview)
